@@ -34,6 +34,7 @@ while ( N>0 ):
     N //= 10 # Hilangkan digit terakhir
     
 print("Jumlah digit angka tersebut adalah " + str(sum_dgt))
+
 '''
 Ilustrasi
 Input => 19
