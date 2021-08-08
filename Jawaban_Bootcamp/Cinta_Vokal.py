@@ -15,10 +15,10 @@ untuk menghitung jumlah huruf vokal dalam suatu artikel
 
 Test Case 1:
 Masukkan judul artikel: ini adalah artikel 
-Jumlah huruf vokal pada artikel adalah: 6 
+Jumlah huruf vokal pada artikel adalah: 8 
 
 Test Case 2:
-Masukkan judul artikel: bootcamp initator keren abis 
+Masukkan judul artikel: bootcamp initiator keren abis
 Jumlah huruf vokal pada artikel adalah: 12 
 
 '''
