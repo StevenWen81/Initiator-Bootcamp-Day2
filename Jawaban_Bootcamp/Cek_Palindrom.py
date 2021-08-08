@@ -10,6 +10,14 @@ yang lama, ia mulai malas untuk membaca kata yang ia
 temui dari belakang. Oleh karena itu, bantulah Tuan Wes
 untuk membuat program yang mengecek apakah sebuah kata 
 merupakan sebuah kata palindrom atau bukan.
+
+Test Case 1: 
+Masukkan kata: rotator 
+Kata tersebut merupakan kata palindrom. 
+
+Test Case 2: 
+Masukkan kata: bootcamp 
+Kata tersebut bukan kata palindrom. 
 '''
 
 # Algoritma
