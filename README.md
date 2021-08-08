@@ -1,1 +1,1 @@
-# Kurikulum-Bootcamp-Day2
+# Penyelesaian dari Bootcamp The Initiator Day 2
