@@ -37,7 +37,6 @@ for i in kata:
 # Lakukan pengecekan untuk mengecek apabila
 # kata yang diinput sama apabila dibaca dari
 # depan maupun dibaca dari belakang
-
 if (kata == check):
     print("Kata tersebut merupakan kata palindrom.")
 else:
